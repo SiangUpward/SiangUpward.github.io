@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://https://SiangUpward.github.io</id>
     <title>Gridea</title>
-    <updated>2023-04-27T09:23:48.212Z</updated>
+    <updated>2023-05-25T00:52:43.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://https://SiangUpward.github.io"/>
     <link rel="self" href="https://https://SiangUpward.github.io/atom.xml"/>
@@ -10,6 +10,34 @@
     <logo>https://https://SiangUpward.github.io/images/avatar.png</logo>
     <icon>https://https://SiangUpward.github.io/favicon.ico</icon>
     <rights>All rights reserved 2023, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[C++静态成员变量和静态成员函数详解]]></title>
+        <id>https://https://SiangUpward.github.io/post/cjing-tai-cheng-yuan-bian-liang-he-jing-tai-cheng-yuan-han-shu-xiang-jie/</id>
+        <link href="https://https://SiangUpward.github.io/post/cjing-tai-cheng-yuan-bian-liang-he-jing-tai-cheng-yuan-han-shu-xiang-jie/">
+        </link>
+        <updated>2023-05-25T00:50:15.000Z</updated>
+        <content type="html"><![CDATA[<p>http://c.biancheng.net/view/165.html</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[概率论 全概率、贝叶斯公式理解]]></title>
+        <id>https://https://SiangUpward.github.io/post/gai-lu-lun-quan-gai-lu-bei-xie-si-gong-shi-li-jie/</id>
+        <link href="https://https://SiangUpward.github.io/post/gai-lu-lun-quan-gai-lu-bei-xie-si-gong-shi-li-jie/">
+        </link>
+        <updated>2023-05-22T07:47:41.000Z</updated>
+        <content type="html"><![CDATA[<p>https://zhuanlan.zhihu.com/p/78297343</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[plog]]></title>
+        <id>https://https://SiangUpward.github.io/post/plog/</id>
+        <link href="https://https://SiangUpward.github.io/post/plog/">
+        </link>
+        <updated>2023-05-07T06:01:16.000Z</updated>
+        <content type="html"><![CDATA[<p>关于git的使用<br>
+https://blog.csdn.net/qq_26330025/article/details/124037353?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522168343298416782427497126%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&amp;request_id=168343298416782427497126&amp;biz_id=0&amp;utm_medium=distribute.pc_search_result.none-task-blog-2<sub>all</sub>sobaiduend~default-2-124037353-null-null.142<sup>v86</sup>control,239<sup>v2</sup>insert_chatgpt&amp;utm_term=tortoisegit&amp;spm=1018.2226.3001.4187</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自主探索]]></title>
         <id>https://https://SiangUpward.github.io/post/zi-zhu-tan-suo/</id>
