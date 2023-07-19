@@ -1,19 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://https://SiangUpward.github.io</id>
+    <id>https://https://github.com/SiangUpward/SiangUpward.github.io</id>
     <title>Gridea</title>
-    <updated>2023-07-19T06:52:15.297Z</updated>
+    <updated>2023-07-19T17:00:12.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://https://SiangUpward.github.io"/>
-    <link rel="self" href="https://https://SiangUpward.github.io/atom.xml"/>
+    <link rel="alternate" href="https://https://github.com/SiangUpward/SiangUpward.github.io"/>
+    <link rel="self" href="https://https://github.com/SiangUpward/SiangUpward.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://https://SiangUpward.github.io/images/avatar.png</logo>
-    <icon>https://https://SiangUpward.github.io/favicon.ico</icon>
+    <logo>https://https://github.com/SiangUpward/SiangUpward.github.io/images/avatar.png</logo>
+    <icon>https://https://github.com/SiangUpward/SiangUpward.github.io/favicon.ico</icon>
     <rights>All rights reserved 2023, Gridea</rights>
     <entry>
+        <title type="html"><![CDATA[rosbag]]></title>
+        <id>https://https://github.com/SiangUpward/SiangUpward.github.io/post/rosbag/</id>
+        <link href="https://https://github.com/SiangUpward/SiangUpward.github.io/post/rosbag/">
+        </link>
+        <updated>2023-07-19T16:59:17.000Z</updated>
+        <content type="html"><![CDATA[<p>参考资料：</p>
+<ol>
+<li>rosbag概念与作用<br>
+http://www.autolabor.com.cn/book/ROSTutorials/di-5-zhang-ji-qi-ren-dao-hang/52-rosbagshi-yong.html</li>
+<li>在命令行下使用rosbag记录话题消息<br>
+http://www.autolabor.com.cn/book/ROSTutorials/di-5-zhang-ji-qi-ren-dao-hang/52-rosbagshi-yong/521-rosbagshi-yong-ming-ling-xing.html</li>
+<li>在程序中使用rosbag保存和读取话题消息的方法（方便离线调试）<br>
+http://www.autolabor.com.cn/book/ROSTutorials/di-5-zhang-ji-qi-ren-dao-hang/52-rosbagshi-yong/522-rosbagshi-yong-bian-ma.html</li>
+<li>一个实践例子：使用小乌龟turtlesim来测试<br>
+https://gaoyichao.com/Xiaotu/?book=ros&amp;title=%E5%BD%95%E5%8C%85%E4%B8%8E%E5%9B%9E%E6%94%BE</li>
+<li>rqt_bag：录制和重放 bag 文件的图形化插件<br>
+http://www.autolabor.com.cn/book/ROSTutorials/di-5-zhang-ji-qi-ren-dao-hang/53-rqtgong-ju-xiang/535-rqtchang-yong-cha-4ef63a-rqt-bag.html</li>
+<li>rosbag常用处理脚本：比如有时候需要将Bag文件拆解成帧序列影像，或者提取Bag中的某一个Topic，或者改变某个Topic的帧率等等<br>
+http://zhaoxuhui.top/blog/2021/02/24/ros-bag-processing-scripts.html</li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C++多文件编程]]></title>
+        <id>https://https://github.com/SiangUpward/SiangUpward.github.io/post/cduo-wen-jian-bian-cheng/</id>
+        <link href="https://https://github.com/SiangUpward/SiangUpward.github.io/post/cduo-wen-jian-bian-cheng/">
+        </link>
+        <updated>2023-05-27T23:41:24.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://https://github.com/SiangUpward/SiangUpward.github.io/post-images/1685230958772.png" alt="" loading="lazy"><br>
+http://t.csdn.cn/x2IzS</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[C++静态成员变量和静态成员函数详解]]></title>
-        <id>https://https://SiangUpward.github.io/post/cjing-tai-cheng-yuan-bian-liang-he-jing-tai-cheng-yuan-han-shu-xiang-jie/</id>
-        <link href="https://https://SiangUpward.github.io/post/cjing-tai-cheng-yuan-bian-liang-he-jing-tai-cheng-yuan-han-shu-xiang-jie/">
+        <id>https://https://github.com/SiangUpward/SiangUpward.github.io/post/cjing-tai-cheng-yuan-bian-liang-he-jing-tai-cheng-yuan-han-shu-xiang-jie/</id>
+        <link href="https://https://github.com/SiangUpward/SiangUpward.github.io/post/cjing-tai-cheng-yuan-bian-liang-he-jing-tai-cheng-yuan-han-shu-xiang-jie/">
         </link>
         <updated>2023-05-25T00:50:15.000Z</updated>
         <content type="html"><![CDATA[<p>http://c.biancheng.net/view/165.html</p>
@@ -21,8 +54,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[概率论 全概率、贝叶斯公式理解]]></title>
-        <id>https://https://SiangUpward.github.io/post/gai-lu-lun-quan-gai-lu-bei-xie-si-gong-shi-li-jie/</id>
-        <link href="https://https://SiangUpward.github.io/post/gai-lu-lun-quan-gai-lu-bei-xie-si-gong-shi-li-jie/">
+        <id>https://https://github.com/SiangUpward/SiangUpward.github.io/post/gai-lu-lun-quan-gai-lu-bei-xie-si-gong-shi-li-jie/</id>
+        <link href="https://https://github.com/SiangUpward/SiangUpward.github.io/post/gai-lu-lun-quan-gai-lu-bei-xie-si-gong-shi-li-jie/">
         </link>
         <updated>2023-05-22T07:47:41.000Z</updated>
         <content type="html"><![CDATA[<p>https://zhuanlan.zhihu.com/p/78297343</p>
@@ -30,8 +63,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[plog]]></title>
-        <id>https://https://SiangUpward.github.io/post/plog/</id>
-        <link href="https://https://SiangUpward.github.io/post/plog/">
+        <id>https://https://github.com/SiangUpward/SiangUpward.github.io/post/plog/</id>
+        <link href="https://https://github.com/SiangUpward/SiangUpward.github.io/post/plog/">
         </link>
         <updated>2023-05-07T06:01:16.000Z</updated>
         <content type="html"><![CDATA[<p>关于git的使用<br>
@@ -40,8 +73,8 @@ https://blog.csdn.net/qq_26330025/article/details/124037353?ops_request_misc=%25
     </entry>
     <entry>
         <title type="html"><![CDATA[自主探索]]></title>
-        <id>https://https://SiangUpward.github.io/post/zi-zhu-tan-suo/</id>
-        <link href="https://https://SiangUpward.github.io/post/zi-zhu-tan-suo/">
+        <id>https://https://github.com/SiangUpward/SiangUpward.github.io/post/zi-zhu-tan-suo/</id>
+        <link href="https://https://github.com/SiangUpward/SiangUpward.github.io/post/zi-zhu-tan-suo/">
         </link>
         <updated>2023-04-27T09:16:39.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="声明同学整理的">声明：同学整理的</h2>
@@ -86,8 +119,8 @@ https://blog.csdn.net/gwplovekimi/article/details/119154288?spm=1001.2101.3001.6
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://https://SiangUpward.github.io/post/hello-gridea/</id>
-        <link href="https://https://SiangUpward.github.io/post/hello-gridea/">
+        <id>https://https://github.com/SiangUpward/SiangUpward.github.io/post/hello-gridea/</id>
+        <link href="https://https://github.com/SiangUpward/SiangUpward.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
